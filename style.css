@@ -1,3 +1,11 @@
+nav {
+    border: black 3px solid;
+    background-image: url("mountains.jpg");
+    object-fit:fill;
+    background-repeat: repeat-x;
+}
+
+
 h1 {
     font-size: 50px;
     color: blue;
